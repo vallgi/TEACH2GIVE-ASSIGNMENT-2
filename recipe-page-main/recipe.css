@@ -1,0 +1,33 @@
+
+h1{
+    color:hsl(332, 51%, 32%)
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+span{
+font-weight: bold;
+}
+h1{
+    color: #000;
+    font-family: "Young Serif", serif;
+}
+
+h2{
+    color:hsl(32, 56%, 42%);
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h3{
+    color:hsl(331, 27%, 66%);
+}
+div{
+    background-color:hsl(332, 31%, 57%);
+
+
+}
+    table{
+        margin-bottom: 0cm;
+    }
+
